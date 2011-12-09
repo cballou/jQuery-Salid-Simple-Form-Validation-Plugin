@@ -269,7 +269,7 @@ function salid_match(field, params) {
 function salid_creditcard(field, params) {
     if (!salid_required(field, params)) return true;
     var value = field.val();
-	if (/[^0-9-]+/.test(value)) return false;
+	if (/[^0-9\-]+/.test(value)) return false;
 	var nCheck = 0, nDigit = 0, bEven = false;
 	value = value.replace(/\D-/g, "");
 	for (var n = value.length - 1; n >= 0; n--) {
