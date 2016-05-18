@@ -1,2 +1,4 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cballou/jquery-salid-simple-form-validation-plugin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Salid, the Simple jQuery Form Validation Plugin #
+
+Salid is a very simple form validation plugin for jQuery. No muss or fuss, just simple validation!
 
