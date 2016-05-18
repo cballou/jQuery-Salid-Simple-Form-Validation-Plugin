@@ -1,6 +1,6 @@
 # Salid, the Simple jQuery Form Validation Plugin #
 
-Salid is a very simple form validation plugin for jQuery. No muss or fuss, just simple validation!
+Salid is a very simple, very lightweight form validation plugin for jQuery. No muss or fuss, just simple validation! Don't let that fool you, though, as Salid is highly customizable and likely fulfills your project needs.
 
 Salid comes with a number of pre-defined validation rules out of the box as well as allows you to create any number of additional, user defined validation rules.
 
